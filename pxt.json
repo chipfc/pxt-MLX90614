@@ -1,5 +1,5 @@
 {
-    "name": "pxt-mlx90614",
+    "name": "mlx90614",
     "version": "0.0.4",
     "description": "",
     "dependencies": {
