@@ -33,7 +33,7 @@ namespace MLX90614 {
         return readTemp(amTempAddr)
     }
 
-    //%block="Nhiệt độ %loc"
+    //%block="Nhiệt độ của %loc"
     export function temperature(loc: TemperatureLocation): number{
         switch (loc){
             case 0:
